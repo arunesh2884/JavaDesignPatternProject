@@ -1,5 +1,5 @@
-# EI_Exercises
-
+# Java Design Pattern Project
+Getting exposure to Design patterns in OOPs project.
 This repository contains Java-based programming exercises focusing on **Object-Oriented Programming (OOP) principles** and **Design Patterns**.  
 The exercises demonstrate practical implementations of **behavioral, creational, and structural patterns**, along with a complete console-based application simulating a smart office environment.
 
